@@ -54,7 +54,8 @@ To use the Google Places API, you need to obtain an API key. Follow the instruct
 
 api_key = 'YOUR_API_KEY_HERE'
 
-License
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to customize and expand this README as needed to provide more details about your project. Include examples, acknowledgments, and any other relevant information that helps users understand and use your code.
