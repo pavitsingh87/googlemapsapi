@@ -6,7 +6,7 @@ app = Chalice(app_name='getLatLongScarping')
 
 # Define the API key
 #List of all Keys
-api_key = 'AIzaSyC0xzg8xfzZDDig3QsA0SWDTMM-yp1V4K8'
+api_key = ''
 
 
 def get_place_ids(api_key, query, num_results=1000):
